@@ -2,6 +2,7 @@
 public class Videojuego {
 	/***
 	 * Declaracion de las variables
+	 * 
 	 */
 	protected String titulo, genero, company;
 	protected int horasEstimadas;
